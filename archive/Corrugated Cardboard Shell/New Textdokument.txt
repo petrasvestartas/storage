@@ -1,0 +1,30 @@
+<b>Corrugated Cardboard Shell </b>
+
+“Mesh Discretization and
+Assembly Methods” pavilion exhibition at ARTVILNIUS’19,.
+
+Project Name: Corrugated Cardboard Shell 1:1
+Client: Vilnius Academy of Arts (VDA)
+Firm Location: Lithuania
+Completion Year: 2019
+Gross Built Area: 36 m2
+Project location: ARTVILNIUS’19, Lithuania
+Lead Architects: Lina Vestarte, Petras Vestartas.
+Design Development: VDA students.
+
+{image 1}{image 2}
+The 1:1 scale pavilion is a result of an architectural workshop organized at The Vilnius Academy of Arts, Department of Architecture. This shell structure is more than 3m height and spans up to 6m in diameter. The structure is built of two layered 3mm corrugated cardboard sheets, consisting of 391 sets of elements (more than 1500 total count of unique pieces). It was assembled without using heavy scaffolding or any adhesives, thus relying on material tensile strength and friction provided by the connection method. The assembly sequence plays a crucial role in the act of such construction. 
+
+This project generated some of the most characteristic challenges of parametric design in architecture, from algorithms aided design practice and form-finding to organizing complex data sets and preparing large amounts of pieces for CNC fabrication and assembly. Students were introduced with digital design strategies and various visual programming tools in "Grasshopper" within "Rhinoceros" as well as learning to recognize and analyze subtle nuances in precision and tolerance, understanding crucial distinctions between digital parametric models and physical ones. 
+
+The pavilion was a follow-up of intense smaller scale experiments conducted by the students during the first stage of the workshop held a couple of months earlier. Although the experimentation phase was a great learning practice, much appreciated by the students, working with a larger structure and having some "hands-on" building experience, proved to be a better lesson - a larger scale amplified the constraints of fabrication, logistics and material properties, to the extent of ensuring the students, of the importance of incorporating the act of construction in the early design stage of complex architectural structures such as shells.
+
+
+
+{image 3}{image 4}
+
+{image 5}{image 6}{image 7}{image 8}{image 9}{image 10}{image 11}{image 12}{image 13}{image 14}{image 15}
+
+{image 16}{image 17}
+
+Students Team: Rokas Vainiunas, Simonas Pinkoraitis, Evelina Ažuolaityte, Agne Brazinskaite, Karolina Masalskaite, Algimantas Urbonas, Kiril Smotkin, Emilija Staškute, Emilija Minikaviciute, Kseniya Liadnik, Ula Žebrauskaite, Jovita Laurukenaite, Liucija Kuchalskyte, Ieva Sinickaite, Rugile Jonaityte, Justina Tautvydaite, Živile Grigaleviciute, Kasparas Žiliukas, Solveiga Buoželyte, Migle Karaškaite, Agne Avulyte, Živile Bakutyte, Alisa Muchks, Vilte Bernataviciute, Milda Venslaviciute, Raminta Bieliauske, Vytenis Stasiunas.

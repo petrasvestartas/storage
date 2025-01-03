@@ -1,0 +1,62 @@
+PUBLICATIONS:
+
+IBOIS, EPFL
+PhD Download
+
+2022 Download
+A. Settimi, P. Vestartas, J. Gamerro, Y. Weinand. Cockroach: an open-source tool for point cloud processing in cad. 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA), Sydney, Australia, 2022.
+
+2022 Download
+N. Rogeau, A. Rezaei Rad, P. Vestartas, P. Latteur, Y. Weinand. A Collaborative Workflow to Automate the Design, Analysis, and Construction of Integrally-Attached Timber Plate Structures. 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA), Sydney, Australia, 2022
+
+2021 Download
+P. Vestartas, A. Rezaei Rad, and Y. Weinand. Robotically-Fabricated Nexorades from
+Whole Timber. International fib Symposium on the Conceptual Design of Structures.
+Switzerland, 2021.
+
+2021 Download
+A. Rezaei Rad, H. Burton, N. Rogeau, P. Vestartas, and Y. Weinand. A framework to
+automate the design of digitally-fabricated timber plate structures. Computers &
+Structures, 2021.
+
+2020 Download
+P. Vestartas and Y. Weinand. Joinery Solver for Whole Timber Structures. WCTE2020,
+Santiago,Chile, August 24-27, 2020.
+
+2020 Download
+P. Vestartas and Y. Weinand. Laser Scanning with Industrial Robot Arm for raw wood
+Fabrication. ISARC2020, Kitakyushu, Japan, October 27-28, 2020. p. 773-780, 2020.
+
+2020 Download
+L. Vestarte, P. Vestartas, and R. Kucinskas. Corrugated Cardboard Shell: A Pavilion
+Project of An Architectural Workshop. Advances in Architectural Geometry (AAG), 2020.
+
+2019 Download
+Petras Vestartas, Nicolas Rogeau, Julien Gamerro, Yves Weinand
+Modelling Workflow for Segmented Timber Shells using Wood-wood Connections
+Design Modelling Symposium (DMS) Berlin 2019.
+
+2019 Download
+Segmented Spiral Using Inter-Connected Timber Elements
+Petras Vestartas, Loic Pelletier, Martin Nakad, Aryan Rezaei Rad, Yves Weinand
+IASS, Form & Force, Barcelona, 2019
+
+2019 Download
+Performance Assessment of Double-Layered Timber Plate Shells using Alternative Structural Systems
+Petras Vestartas, Loic Pelletier, Martin Nakad, Aryan Rezaei Rad, Yves Weinand
+IASS, Form & Force, Barcelona, 2019
+
+2019 Download
+Anh Chi Nguyen, Petras Vestartas, Yves Weinand
+Design Framework for the Structural Analysis of Free-Form Timber Plate Structures using Wood-Wood Connections
+Automation in Construction
+
+2017 Download
+Phil Ayres, Petras Vestartas, Mette Ramsgaard Thomsen. Enlisting Clustering and Graph-Traversal Methods for Cutting Pattern and Net Topology Design in Pneumatic Hybrids. Design Modelling Symposium (DMS) Paris 2017.
+
+2017 Download
+Petras Vestartas, Mary Katherine Heinrich, Mateusz Zwierzycki, David Andres Leon, Ashkan Cheheltan, Riccardo La Magna, Phil Ayres Design Tools and Workflows for Braided Structures. Design Modelling Symposium (DMS) Paris 2017.
+
+2017 Download
+Mateusz Zwierzycki, Petras Vestartas, Mary Katherine Heinrich, Phil Ayres. High Resolution Representation and Simulation of Braiding Patterns. Conference: Disciplines & Disruption, ACADIA 2017
+(2,038 views)

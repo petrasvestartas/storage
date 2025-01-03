@@ -1,0 +1,65 @@
+<b>Workshop “Mesh Discretization and Assembly Methods”</b>
+Vilnius Academy of Arts, Department of Architecture, 2019
+
+Tutors: Petras Vestartas, Lina Vestarte, Gediminas Kirdeikis, Romualdas Kučinskas
+
+We are thankful for a group of students who participated in the workshop: 
+Rokas Vainiunas, Simonas Pinkoraitis, Evelina Ažuolaityte, Agne Brazinskaite, Karolina Masalskaite, Algimantas Urbonas, Kiril Smotkin, Emilija Staškute, Emilija Minikaviciute, Kseniya Liadnik, Ula Žebrauskaite, Jovita Laurukenaite, Liucija Kuchalskyte, Ieva Sinickaite, Rugile Jonaityte, Justina Tautvydaite, Živile Grigaleviciute, Kasparas Žiliukas, Solveiga Buoželyte, Migle Karaškaite, Agne Avulyte, Živile Bakutyte, Alisa Muchks, Vilte Bernataviciute, Milda Venslaviciute, Raminta Bieliauske, Vytenis Stasiunas.
+ 
+ 
+The main inspiration for the project comes from contemporary architecture, where free-form shapes are becoming increasingly popular while the actual construction poses rising demands on the underlying geometry [1]. Additionally, since the introduction of digital technologies, such geometries are often conceived in an environment where gravity, scale and material are absent, thus there exists little understanding between form and structure in solving the design problem and reaching an efficient shape. The use of quad meshes with planar faces - called PQ meshes -  is an efficient method of representing shell geometry and a promising tool for architectural design [2]. It provides new and elegant approach to modelling doubly-curved surfaces using form-finding, while also offering a path to overcome the challenges such structures experience during their fabrication and construction. 
+
+Shell structures are constructed systems described by three-dimensional curved surfaces, in which one dimension is significantly smaller compared to the other two. They are form-passive (relatively rigid) and resist external loads predominantly through membrane stresses [3]. Typically made of timber, concrete or masonry, however, the unique membrane performance allows us to build efficient shells even from very cheap and/or weak materials, such as corrugated cardboard sheets, selected for this project.
+
+The challenge of shell design is to find the appropriate form for a given problem [4] and since shell structures are considered as one of the most complex structural systems, it is very difficult to derive structural equations and sometimes impossible to solve them manually. Due to the fact that structural behavior of shells can be so complicated, the design methods of these complex structures strongly relies on model prototypes and testing [5]. Therefore, during the workshop exclusive attention was given to the use of digital form-finding tools. Form-finding methods are the ones, where structure itself defines its own shape based on its equilibrium under applied loads. Unlike geometric forms, which are defined mathematically, or free-form shapes, which are generated without taking into account structural performance, form-found shapes rely on the structure and loads themselves for definition, thus making form-found shapes inherently more structurally efficient [6].
+ 
+The 1:1 scale pavilion [Fig. 1] is a result of a two stage architectural workshop, organized at The Vilnius Academy of Arts, Department of Architecture. This shell structure is more than 3m height and spans up to 6m in diameter and is supported at only 5 arbitrary points [Fig. 2]. The structure is built of two layered 3mm corrugated cardboard sheets, consisting of 391 sets of planar quadrilateral elements (more than 1500 total count of unique pieces). It was assembled without using heavy scaffolding or any adhesives, thus relying on material strength and friction provided by the connection method. The assembly sequence plays a crucial role in the act of such construction and while not being a focal point in this project, holds strong potential for future investigations.
+
+The teaching agenda for the first stage of the workshop has consisted of the following parts: introducing historical examples of form-finding, modelling with digital form-finding tools, using polygonal mesh planarization, getting acquainted with assembly sequencing and fabrication methods. Students were divided into six groups to explore various mesh topologies within the realm of form-found double-curved shapes [Fig. 3]. The physical models were a two-layer system, built from 2 mm cardboard using laser-cutter and assembled manually within a day. Since the principal fabrication constraint was a 2-axis laser cutter, the simplification of cutting angle for finger-joints was required. Physical models were assembled without scaffolding or adhesives, tension loads during the assembly process were compensated by friction provided by the joint itself. Thus models can be disassembled, easily transported and reassembled again. Each student group designed and fabricated foundations, customized to suit their designs aesthetically and structurally. The study exposed important fabrication issues such as defining assembly sequence, solving insertion vector per panel and indexing, which were crucially important for successfully building a larger scale structure. 
+
+During the second stage of the workshop, the 1:1 scale pavilion was built. It was created using the same surface modelling methods as the smaller scale experiments conducted by the students few months earlier, the major distinction being the use of only quadrilateral panels (i.e. PQ meshes). A laser-cutter posed main fabrication constraints, similarly to the experimental prototypes, but additionally restricting the measures and geometrical proportions of the panels and increasing fabrication time. The base and supports were custom designed and fabricated using 2-axis CNC machine, from 18 mm MDF sheets. Due to a larger scale, several supporting posts for the assembly required, but no need for heavy scaffolding arose [Fig. 4]. A diagrammatic structural analysis was conducted employing "Karamba 3D", to identify proportional load distribution throughout the membrane, determine weakest points and if any are susceptible to failure. The whole structure was assembled by a dozen students within less than 12 hours, including the time spent for sorting the unique pieces. 
+ 
+This project generated some of the most characteristic challenges of parametric design in contemporary architecture: from algorithms aided design practice, surface subdivision and mesh representation methods to organizing complex data sets and preparing large amount of pieces for CNC fabrication and assembly [Fig.: 5]. Students were introduced to digital design strategies and various visual programming tools in "Grasshopper" within "Rhinoceros", with more explicit emphasis on physics simulation tool for form-finding "Kangaroo". Next to digital modelling, physical prototyping leads to recognizing and analyzing subtle nuances in precision and tolerance, understanding crucial distinctions between digital parametric models and physical ones. 
+
+To conclude, although the experimentation phase was a great learning opportunity, much appreciated by the students, having some "hands-on" building experience with a larger structure proved to be a better lesson: constraints of fabrication, logistics and material properties amplified by scale, indisputably proved the importance of incorporated structural thinking and the act of construction,  in the preliminary design phase for such architectural structures as shells.
+
+
+<b>References</b>
+[1] Pottmann, H., Jiang, C., Hobinger, M., Wang, J., Bompas, P., Wallner, J.: Cell packing structures. Comput.-Aided Des. (2015).
+[2] Liu, Y., Pottmann, H., Wallner, J.,Yang, Y.-L., Wang, W.: Geometric modeling with conical meshes and developable surfaces. ACM Trans. Graph. 25(3), 681–689 (2006). ACM SIGGRAPH
+[3] S. Adriaenssens, P. Block, D. Veenendaal, C. Williams. Shells Structures for Architecture, 2014; Chapter 3, Chris Williams
+[4] S. Adriaenssens, P. Block, D. Veenendaal, C. Williams. Shells Structures for Architecture, 2014; Chapter 1, J. Ochsendorf and Philippe Block
+[5] S. Adriaenssens, P. Block, D. Veenendaal, C. Williams. Shells Structures for Architecture, 2014; Chapter 4  by Bill Addis
+[6] S. Adriaenssens, P. Block, D. Veenendaal, C. Williams. Shells Structures for Architecture, 2014; Introduction
+
+
+Group F
+{image 32}{image 33}{image 34}
+{image 1} 
+{image 4}
+{image 3}
+
+Group E
+
+{image 35}{image 36}{image 37}
+{image 7}{image 11}
+
+Group D
+
+{image 38}{image 39}{image 40}
+{image 12}{image 13}{image 14}{image 15}
+
+Group C
+
+{image 41}{image 42}{image 43}
+{image 17}{image 18}
+
+Group B
+
+{image 44}{image 45}{image 46}
+{image 21}{image 22}{image 24}{image 31}
+
+Group A
+
+{image 47}{image 48}{image 49}
+{image 26}{image 28}

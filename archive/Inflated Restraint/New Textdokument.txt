@@ -1,0 +1,78 @@
+<b>Inflated Restraint</b>
+
+Investigating cutting patterns and net topologies in a pneumatic hybrid
+
+Inflated Restraint investigates how computational techniques of clustering and graph traversal can be applied in the context of cable stiffened pneumatic structures to produce new forms of expression.
+
+Team: Phil Ayres, Petras Vestartas, Danica Pistekova, Maria Teudt
+
+{image 14}
+{image 1}
+
+<iframe src="https://player.vimeo.com/video/181328695" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p>
+
+<iframe src="https://player.vimeo.com/video/197450412" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Influenced by NetworkX methods (Python), I made C# library for graph that include n-gons for striping:
+https://www.food4rhino.com/app/fox
+
+<iframe src="https://player.vimeo.com/video/197452275" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+{image 15}
+
+<b>BACKGROUND</b>
+
+The state-of-the-art in architectural membrane design (both pneumatic and mechanically stressed) typically follows a workflow of form-finding, structural analysis and, finally, pattern cutting. In this project, we concentrate our efforts in developing methods for generating membrane cutting patterns and the topology of a stiffening net.
+
+{image 2}
+
+<b>SCALES OF THE MEMBRANE</b>
+
+The project focus on pattern cutting is motivated by the established understanding that a primary contributing factor to the performance and aesthetic quality of architectural pneumatics, and architectural membrane structures in general, is the cutting pattern. This makes it a central design concern that spans across different scales of consideration and
+implicates questions of fabrication. Within the project, we identify three inter-linked scales of consideration for the membrane – the textile (micro scale), the pattern patch (meso scale) and the overall shape (macro scale).
+
+{image 4}
+
+<b>DESIGN</b>
+
+The overall shape is designed, rather than form-found, to provide a challenging site for the hybrid pneumatic by including large areas of anticlastic, or ‘saddle’, curvature. The natural tendency of pneumatic systems is to ‘push outwards’ which results in synclastic, or domed, curvature. The shape of Inflated Restraint therefore expresses the role of the membrane, and its underlying cutting pattern, in steering this natural tendency towards a design target. The project develops through an iterative cycle of physical and digital prototyping, testing and ‘local’ evaluation of methods and physical fragments. Computational simulation plays a central role in exploring the dynamics of membrane and net interaction, and in developing the specification of the cutting patterns using relaxation
+methods.
+
+{image 3}
+<b>
+METHODS
+</b>
+To specify the cutting pattern we employ the computational method K-means Clustering for identifying regions of synclastic curvature in the design mesh.
+
+The remaining regions of neutral and anti-clastic curvature are then operated upon by a graph traversal method to break them into reasonably sized patches for lasercutting and sewing. The method produces a surface effect distinct from typical pattern cutting techniques which tend towards rationalisation and minimisation of deviation between strips of textile. Inflated Restraint demonstrates that complex computationally derived cutting patterns, that appear to be arbitrary, can be efficiently combined to minimise waste and produce membranes
+that approximate a design target with complex curvature.
+
+
+{image 5}
+<b>NET DESIGN</b>
+
+The design of the net is also informed through curvature analysis of the target shape. In this case, we firstly identify areas of anticlastic curvature, the ‘lowest’ points of the membrane surface, to establish the primary loops of the net. This ensures that they maintain contact with the membrane even though under tension. The primary loops define the base topology of the net.
+
+{image 6}{image 7}
+
+<b>DEMONSTRATOR</b>
+
+The exhibited research demonstrator provides us with a target through which to ‘globally’ evaluate our methods and the performance of the system across scales. We will conduct a number of evaluative studies based on surface geometry data gathered using laser scanning technology. This will allow us to compare the inflated result with intended geometry (macro scale evaluation), and, by extension, to assess the quality of the pattern cutting method (meso scale evaluation). Correlating the scan data with internal pressure will further allow us to assess membrane stresses at any point on the surface and compare this with predictions from our simulation methods (micro scale evaluation). Deviations in results between the predicted and the measured will provide feedback for simulation calibration.
+
+{image 8}{image 9}{image 10}
+<iframe src="https://player.vimeo.com/video/188280487" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p>
+
+
+
+<b>EVALUATION THROUGH SCANNING</b>
+
+Further evaluations of simulation performance will be conducted by systematically scanning changes in geometry under a range of inflation pressures.
+
+This will enable us to build a performance data set that will provide insights into membrane and net interaction, and which can be further extended to explore system performance under external loading.
+
+{image 12}
+
+
+{image 16}

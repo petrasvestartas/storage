@@ -1,0 +1,11 @@
+<b>Vilnius Multifunctional Centre</b>
+Bachelor studies
+Personal work.
+2012
+
+<b>Renders</b>
+{image 5}{image 6}{image 1}
+<b>Physical Model</b>
+{image 2}
+<b>Section</b>
+{image 4}

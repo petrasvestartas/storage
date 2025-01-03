@@ -1,0 +1,60 @@
+<b>From Landscape To Roofscape</b>
+Workshop
+Team: Petras Vestartas, Lina Baciuskaite, Gediminas Kirdeikis
+2013
+
+“From Landscape to Roofscape” is the title of an architecture workshop taking place at the Vilnius Academy of Art with Daniel Köhler and Rasa Navasaitytė
+( „Lab for Environmental Strategies“, www.lab-eds.org).
+
+Opposed to Landscape, a Roofscape is constructed from autonomous elements. (i) In a Roofscape continuity evolves through the coherence and agreement of its constituting elements. Here we encounter one of the basic problem-sets in architecture: Alberti's Part-to-Whole-Relation (ii). In Alberti's treatise the Whole is written through the Roman term civitas which describes a political form of coexistence, a fragile entity, a ground from the many.
+
+Here we can continue Frei Otto's research in tensile roof-structures, its structure "arising from three things, namely the number, the figure and collocation of different parts"(iii). More precise: A roof is build up from an arrangement(1) of particles(2) and their relaxational connections(3). If we translate Frei Otto's description of a surface condition towards Alberti's definition of an architectural object, the former structural particle opens up to a (rigid) figure, being an element of a configuration through specific tectonics. A Roofscape as an active drawing of agencies, a constitution between its elements.
+
+In this workshop we used Processing, an open-source software for an object-oriented ontology in architecture. Models were produced with Vilnius Art Acedemy's 5-axis CNC machine.
+
+(i) Gottfried Semper, Caribbean hut, Great Exhibition of 1851, London: with the Caribbean hut Semper shows that landscapes (territories) are defined through steronometric strategies (clay), whereas Roofscapes (agencies) are defined by tectonics (wood), the combination of rigid elements.
+(ii) Leon Battista Alberti, De re aedificatoria, Florenz, 1451, p.12: “Quod si civitas, (...), maxima queda est domus, & contra domus ipsa minima quaedam est civitas“
+(iii) Hilberseimer, Ludwig, 1956, 'Mies van der Rohe' , Chicago: Paul Theobald, p. 36S
+
+{image 1}
+
+<iframe width="560" height="360" src="https://www.youtube.com/embed/J7GHz4gbQic" frameborder="0" allowfullscreen></iframe>
+
+<b>Physical Models</b>
+5-axis CNC milling
+
+{image 2}{image 3}
+
+<b>Autonomous elements were chosen from analysis of  church named "Die Stavkirke von Heddal"</b>{image 4}
+
+<b>Drawings for 3 main scales (Element - Organization - Object)</b>
+
+{image 8}{image 5}{image 7}
+
+<b>Principle</b>
+{image 13}
+
+<b>Light changes understanding of the surface tectonics</b>
+{image 12} {image 11}{image 10}
+<b>
+Visualisations</b>
+{image 15}{image 17}{image 16}{image 14}
+
+<b>Process includes array of objects and movers changing positions of objects by swarming behaviour</b>
+
+<b>1) Array 1D</b>
+
+{image 18}{image 19}
+{image 21}{image 22}{image 23}
+{image 51}
+<b>2) Array 2D</b>
+
+{image 20}{image 42}{image 43} 
+{image 37} {image 41}{image 35}{image 36}
+{image 38}{image 39}{image 40}
+{image 59}
+{image 24}{image 25}{image 26}{image 32}
+{image 27}{image 28}{image 29}{image 30}{image 31}
+
+<b>1) Array 3D</b>
+{image 60}{image 46}{image 47}{image 48}

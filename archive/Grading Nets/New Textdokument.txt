@@ -1,0 +1,69 @@
+<b>Grading Nets</b>
+Complex Modelling: Inflated Restraint Workshop 
+Tutors: Petras Vestartas, Phil Ayres
+Students: Katre Laura, Olga Smolnikava, Jonas Mortensen, Mandeep Singh, Teodor Petrov
+4-17 March 2016
+
+
+<b>Context & Aims</b>
+This is the first in a series of three workshops that tracks and invites your participation in the research progress and production of Complex Modelling project #5 – Inflated Restraint. The aim of this workshop is to prototype, test, explore and evaluate methods of designing and making graded braid nets for inflatable membranes. The workshop will equip you with tools and methods for designing, calibrating and prototyping across three distinct scales – micro (material)/meso (component)/macro (structure) – with the aim of determining design dependencies across these scales.
+
+<b>Workshop Methods</b>
+The workshop combines presentations of project concepts and design tools together with hands-on design exploration using custom digital tools, model calibration techniques and physical prototyping. Empirical testing methods will provide data for model calibration, and calibrated models will be used to provide projective understandings of hybrid material system behaviors. These projections will then be tested and evaluated through comparison with physical prototypes. Continual documentation of activities will act as an essential method of design ideation, communication and planning.
+
+<iframe src="https://player.vimeo.com/video/169515666" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/197452275" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/197450412" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<iframe src="https://player.vimeo.com/video/160298454" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/160298454">GRADING NETS - CITA WORKSHOP</a> from <a href="https://vimeo.com/user12499445">Petras Vestartas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+<iframe src="https://player.vimeo.com/video/161684351" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/161684351">Net Springs - Kangaroo2 running with constant addition of  particles loops</a> from <a href="https://vimeo.com/user12499445">Petras Vestartas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/161795109" width="560" height="367" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/161795109">Braid_Bifurcation</a> from <a href="https://vimeo.com/user12499445">Petras Vestartas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/164781171" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/164781171">Loops_Switch CITA</a> from <a href="https://vimeo.com/user12499445">Petras Vestartas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/171932406" width="560" height="310" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/171932406">Inflatables Rig Scan</a> from <a href="https://vimeo.com/user12499445">Petras Vestartas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+
+
+NetworkX Graphs (IronPython) for cutting patterns
+{image 17}
+
+Later I wrote C# library to use graphs with objects such as lines, polylines and polygons. There is a preference to use it for 3d objects (cell as item) for assembly logics.
+{image 19}
+
+<b>Laser Scan</b>
+{image 1}
+
+<b>Photogrammetry</b>
+{image 18}
+
+<b>Introduced tools Kangaroo2 + C#</b>
+{image 2}{image 3}
+<b>
+Braided Net + Membrane</b>
+{image 4}{image 5}{image 6}
+<b>Graded Net (Knots) + Membrane</b>
+{image 7}{image 8}
+<b>Geometry Scanning (Laser Scan (Volvox), Kinect (Quokka, Firefly))</b>
+
+
+
+{image 15}{image 16}
+<b>Plain Balloon Scanning - Surface Curvature to Air Pressure</b>
+{image 11}
+<b>Braided Net Scanning - Surface Curvature to Air </b>Pressure{image 12}
+<b>Knot Net Scanning - Surface Curvature to Air Pressure </b>
+Net Slides from membrane
+{image 13}

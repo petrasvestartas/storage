@@ -1,0 +1,84 @@
+<b>Architecture in Misfit Environments</b>
+Master Thesis 
+Team: Petras Vestartas, Gediminas Kirdeikis
+2014
+
+Why? 
+
+This project works with a post-traumatic area of Beirut. The city is isolated as a point in which European Christian and Arabic Muslim cultures intersect. During the primary analysis phase it became clear, that this "point" must have different layers of tension forces at work.
+
+In the stylized schematic, you can see the time frame of conflict/peace segments. It also shows that in the last 50 years 95% of the time this area was in some sort of a conflict (which, at it's peaks became an all out war).
+Further analysis of temporary structures and main principles behind architecture in itself were made without getting into social and political context. Also the search was deeply interwoven with computer based programming.
+
+While trying to manage the huge amount of information that the city of Beirut provides, a data tree is created, which only works in the frame of PROCESSES which are extracted from the area.
+
+Later on the project concentrates on the tension explosions which happened in '64 and '73. A map of destroyed areas is created, which is enhanced with additional mapping of psychologically positive and negative areas. Gathered information is used to create an art project/experiment, which to our relief reflects the real situation of Beirut - the city breaks into west and east sides.
+
+In order to concentrate on the actual site, the most affected area from the separation line of East and West Beirut is extracted. This area is in the central district of Beirut, where the French Mandate created their road system. A question arises: "Why is there a missing beam in the star shaped French intersection?" . Further analysis were held to answer this question.
+
+The site is filled with either sacral of cultural buildings which are placed perimetrically and also in the inner courtyard of the site there is an archaeological excavation with Roman and Greek ruins. The high amount of layers in this area is evident so further analysis is made to find any other layers which could be invisible at first sight. During this process historic layers from Ottoman empire and medieval Beirut are extracted.
+These layers are later used as a starting point for the creation of the historic park in the south (bottom) side and museum in the north (top) side of the site.
+
+The missing French Mandate road beam is created as a bridge separating and at the same time joining these two parts of the site. The top layer is a lightweight tent structure with structural rings on top of each square in the bottom layer. These rings not only work as structural elements but also as skylights.
+
+To recap: This project has three main layers, which have their own sub-layers. The bottom layer has the archaeological ruins which we wanted to exhibit but not "touch".
+The middle layer is an interpretation of the passed historic structures - south side has the medieval Beirut's roads as a ramp system, north side has a volume which is built around the interpreted defensive wall from the same period, while these both parts are joined together with an unrealized road from the French period.
+The top layer is a completely new structure, which reacts to the bottom layers while keeping it's modern appearance.
+
+<iframe width="560" height="390" src="https://www.youtube.com/embed/GTYWNT5urOk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="390" src="https://www.youtube.com/embed/U7l9_pqPXtA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="390" src="https://www.youtube.com/embed/eQgWoFGbSVM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="390" src="https://www.youtube.com/embed/efccnVYh_XY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="390" src="https://www.youtube.com/embed/XBpNbTwKaW4" frameborder="0" allowfullscreen></iframe>
+
+<b>
+Research models</b>
+
+1 French Madate Urban Planning  2 Urban Landscape
+3 Medieval street network superimposed with existing situation 4 Naturally occuring "Tent as a city" condition in Beirut 
+5 Proposed temporary intervention
+{image 9}
+{image 12}
+{image 15}
+{image 14}
+{image 13}
+
+
+
+<b>Research Process</b>
+
+1. War context resulted in "Scar city" 
+{image 16}
+
+2. Urban sketches
+{image 7}
+{image 8}
+
+3. Context layers
+{image 17}
+
+4. Site Analysis
+a) Archeological opening
+{image 22}
+
+b) Historical layers superimposition, that influenced final geometry
+{image 18}
+{image 19}
+{image 20}
+
+<b>Visualisations showing superimposed urban layers (pathway system) and tent roofscape simulated according to medieval city squares. 
+</b>
+{image 1}
+{image 4}
+{image 2}
+{image 3}
+{image 37}
+{image 5}
+{image 6}
+<b>
+Drawings</b>
+{image 24}
+{image 38}
+{image 26}
+{image 28}
+{image 33}{image 34}{image 35}

@@ -1,0 +1,40 @@
+<b>Introduction to computational architecture (AR-327)</b>
+
+<b>Summary:</b>
+This course reviews the basics of 3D modeling to establish the foundations of parametric architectural modeling via different methods. The main objective of the course is to develop a computational mindset to maximize the use of efficient digital tools in architectural projects.
+
+<b>Content:</b>
+This course is composed of 3 modules:
+3D modeling (CAD) where the fundamentals of geometry are reviewed and advanced techniques of 3D modeling are covered (2 weeks).
+Parametric modeling (visual scripting, Grasshopper) where the parameterization of basic and advanced geometric elements is studied (5 weeks).
+Computational modeling (scripting) where an introduction to coding is given (5 weeks).
+This configuration in 3 modules allows to gradually increase the level of complexity and to initiate architecture students to computational thinking.
+
+<b>
+By the end of the course, the student must be able to:</b><b><b></b></b>
+Identify the different modeling techniques
+Classify these techniques by their degree of efficiency
+Develop simple parametric models with Grasshopper
+Develop and execute low-level Python scripts for 3D modeling
+Propose an appropriate method to build a model
+Transversal skills
+Use a work methodology appropriate to the task.
+Plan and carry out activities in a way which makes optimal use of available time and other resources.
+Use both general and domain specific IT resources and tools
+Demonstrate the capacity for critical thinking
+Teaching methods
+Lectures (1/3 to 1/2 of each session)
+In-class tutorials (1/2 to 2/3 of each session)
+Expected student activities
+Participation during the course
+Pro-active attitude for class exercises
+Independent realization of exercises after each week
+Assessment methods
+An evaluation is done at the end of each week with an exercise to be handed in for the following week on the theme studied. Each test has the same coefficient in order to obtain a continuous control throughout the course.
+
+<b>Keywords</b>
+architecture, 3D modeling, computational thinking, parametric design, coding
+
+{image 1}
+
+

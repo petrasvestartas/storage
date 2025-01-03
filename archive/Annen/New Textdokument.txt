@@ -1,0 +1,19 @@
+Location: Manternach, Luxembourg
+
+Client: Annen Plus SA
+
+Architect: Valentiny hpv architects, Remerschen. Yves Weinand, Liège
+
+Timber Engineering: Bureau d’Etudes Weinand, Liège (BE)
+
+Technology Transfer: Laboratory for Timber Construction, IBOIS, EPFL, Prof. Yves Weinand, Christopher Robeller, Didier Callot, Anh Chi Nguyen, Aryan Rezaei Rad, Petras Vestartas
+
+Work below is based on geometry transfer from fabrication data to FEM structural analysis, based on publication:
+Performance Assessment of Double-Layered Timber Plate Shells using Alternative Structural Systems
+Petras Vestartas, Loic Pelletier, Martin Nakad, Aryan Rezaei Rad, Yves Weinand
+IASS, Form & Force, Barcelona, 2019
+
+{image 14}{image 15}
+{image 1}{image 2}{image 3}{image 4}{image 5}{image 6}{image 7}{image 8}{image 9}{image 10}{image 13}{image 11}
+{image 19}
+{image 17}

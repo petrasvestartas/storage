@@ -1,0 +1,47 @@
+<b>The Figure and its Figuration </b>
+Workshop
+Team: Lina Baciuskaite, Petras Vestartas, Gediminas Kirdeikis
+2014
+
+This research represents the outcome of a two-part workshop at the Vilnius Art Academy, architecture department February - March 2014. Followed by an exhibition at the Gallery "Academia" in Vilnius.
+
+Instructors: Lab for Environmental Design Strategies/ Daniel Köhler & Rasa Navasaityte
+Participants: Lina Baciuškaitė, Gediminas Kirdeikis, Raminta Ražauskaite, Ruta Marija Slavinskaitė, Paulius Venckūnas, Lina Venckutė, Petras Vestartas
+
+According to Manfredo Tafuri modernistic architecture reproduced the reality of the industrial production. From the standardized element, to the cell, for the urban block, the settlement and finally to the modernist city described a hierarchical chain in which each parent object must be seen as an assemblage of smaller objects. The architecture of the modernists described no longer form, but organized the economic, social, technological forces, relations and conditions of the city. In Tafuri's story and with his materialistic description the postmodern discourse in architecture became a reflection of the assembly line, searching for its alternative.
+
+The first generation of digital architects were challenged by the idea that architecture can be defined by new modes of production mediated through parameters into architectural form. The „new“ in architecture were developed through speculations on the next possible interventions in other fields. In terms of production the postmodern critique on modern equality and the 1968 discovery of the inividual found in customization an alternative to the assembly line. Driven by the idea that an architectural design can change industrial processes as well, tooling and the disciplinary abstraction of cutting edge technologies determined more and more architectural design. Today architectural research seems to be defined through the design of materiality and new modes of its production.
+
+In an epoche as the assembly line is completed on global scale and individuality is expressed on mostly silver i-devices made by one and the same global company, can the idea of architectural customization still has an impact? In this sense its worth to think the modern again: What if the figure stays the same? Can we achieve similar effects with the same architectural element in figuration as with a customized element? If "what" was the wrong beginning for a question, what else counts, if no-matter-what?
+
+<iframe src="https://player.vimeo.com/video/90731258" width="560" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/90731258">The Figure and its Figuration</a> from <a href="https://vimeo.com/leds">lab-eds</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<b>
+3D printed chain prototype</b>
+{image 1}
+
+<b>Aluminium chain model</b>
+{image 18}
+
+<b>Research : Catenary simulation using BRigid library for Processing </b>
+
+<b>1) Proto Chain</b>
+<b>Finding out our preference for research direction</b>
+  {image 2}{image 3}
+
+<b>2) Chain Figure</b>
+<b>Flatness of surfaces lets create panelling effect for collision simulation</b>
+   {image 4}{image 5}
+
+<b>3) Half Chain Figure</b>
+<b> This is purified geometry that lets to understand "BRigid" collision behavior</b>
+{image 10}{image 6}
+
+<b>4) Volumetric Chain Element</b>
+<b> Due to thick volume additional interaction (collision) is created</b>
+{image 8}  {image 9} 
+ <b>
+Assembly</b>
+{image 14}{image 15}{image 16}{image 17}
+
+<b>Exhibition</b>
+{image 11}{image 12}{image 13}{image 20}{image 19}

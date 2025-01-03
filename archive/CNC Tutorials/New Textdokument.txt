@@ -1,0 +1,8 @@
+CNC Programming
+
+Teaching IBOIS, EPFL students our CNC workflow using Rhino Grassgopper plugin Raccon and 5-Axis CNC machine Maka.
+
+More about the tool:
+► <a href="https://github.com/ibois-epfl/Raccoon" target="_blank"><b>Raccoon</b></a> (5-axis CNC Fabrication methods),
+
+{image 1}{image 2}{image 3}{image 4}{image 5}{image 6}

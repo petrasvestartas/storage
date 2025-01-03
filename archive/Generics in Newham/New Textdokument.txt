@@ -1,0 +1,109 @@
+<b>Generics in Newham</b>
+Mater Degree Thesis Project at KADK, Department 8.
+Personal work.
+2013
+
+<b>
+Inspiration:</b>
+
+<b>“London: The Unique City I” Steen Eiler Rasmussen</b>
+“...the jerry-builders are always busy in London trying to cover new areas with the above described one-family houses which are easily sold. As a result, they want to extract as much value from land as possible. During these last decades the old quarters have to a great extent been deserted and people have moved further and further away from the middle of the town...”
+
+<b>“The Death and Life of  Great Amerian Cities“ Jane Jacobs</b>
+“One of the truisms of orthodox planning is the idea that parks and open space are in and of themselves healthy, positive dditions to urban and suburban life genuine and inarguable improvements over the asphalt and concreate of urban streets and sidewalks. Jacobs “turns this idea around“ by suggesting that it is cities (their activity, their density, the interest that they bring in the form of foot traffic, the enclosure they provide by way of buildings and streets, that make parks successful. The lack of sufficient city life renders Parks both dull and dangerous.)
+
+There is little commerce or street life to keep eyes on the street. Projects are turned inward onto courtyards, away from streets and sidewalks. Gang warfare by the poor and fortressing by the wealthy.
+
+<b>“Reassembling the Social: An Introduction to Actor-network Theory” Bruno Latour</b>
+„Controversies are not what we should escape from but what should be composed, actor after actor, exactly as those who model the climate ad, actor after actor – the role of air turbulences, then the clouds, then the role of agriculture, then the role of plankton, every time gaining a more and more realistic rendering of this true theater of globe. “
+...
+„how to kill yesterday, how to kill today, and how to kill tomorrow! In every chapter, to tally the dead, you have to add several orders of magnitude to your calculator!“ waiting for gaia. Composing the common world through arts and politics
+
+
+
+<iframe src="https://player.vimeo.com/video/86206003" width="560" height="390" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/86206003"></a></p>
+
+<iframe src="https://player.vimeo.com/video/82347966" width="560" height="390" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/82347966"></a>  <a href="https://vimeo.com/user12499445"></a></p>
+
+<b>
+Proposed Additions from Mapping Data</b>
+{image 1}
+
+<b>Mapping data</b>
+Representing a) Transport intensity b) Overcrowding Densities c) Shopping Function (Endosceleton) 
+{image 39}
+
+<b>Research Workflow</b>
+{image 3}
+{image 4}
+{image 5}
+{image 6}
+{image 7}
+{image 8}
+{image 9}
+{image 10}
+{image 11}
+{image 12}
+{image 13}
+{image 14}
+{image 15}
+{image 16}
+{image 17}
+{image 18}
+{image 19}
+{image 20}
+{image 21}
+{image 22}
+{image 23}
+{image 38}
+{image 25}
+{image 26}
+{image 27}
+{image 28}
+{image 29}
+{image 30}
+{image 31}
+{image 32}
+{image 33}
+{image 34}
+{image 35}
+{image 36}
+{image 37}
+
+Newham is one of the most overcrowded boroughs in London. Moreover, Newham is an inherent (simple) organizational structure that is purely rational in design and conducive to standardizations, as a result it is uniform to classification. In spatial and social terms, Newham’s attributes have ‘unique’ aesthetic quality, setting London far apart from its continental peers.” However, high density of population (overcrowding), unemployment, unfit dwellings is closely linked with social and political agendas, that architecture has little to deal with. Despite regeneration efforts in the docklands, east end and Thames gate way, Newham remains one of the most deprived boroughs in the whole country. 
+
+Attractor points of the city - public function tries to out-stand surrounding urban fabric. After great fire of London in 1666 there were multiple plan proposals for connecting attractors of the city with boulevards. Later regent’s street was erected by enormous force of governmental law. However, Newham has invert situation. Attractors do not stand out of neighbor building mass. However, local residents orients in a city by these attractors except from shopping streets and housing units (based on interview of local residents in Newham).
+
+According to Clarence Stain’s concepts - attractor points’ network can be redefined by considering, that the comfortable walking distance is one mile. Elementary school is the center of the unit and within a one half mile radius of all residents in the neighborhood, there is local shopping center, located near the school. Residential streets are suggested to eliminate intense traffic and park space flows into the neighborhood (Venice, st. Petersburg, west palm). By re-reading Clarence’s, Howards’ and Jane Jacobs’ concepts for city new rules are being generated in a Newham context. 
+
+People orient themselves in a generic city by non-generic elements. However, Newham lacks identity and is uniform by having no landmarks and multilayered functional activity. According to jane Jacobs, this type of generic city “is turned inward onto courtyards away from the street and sidewalks - gang ware by the poor and fortressing by the wealthy” as a result, non-generic elements of the city have to be extended and transformed, so that they would be open to the public and street life. 
+
+Each function of the city is different and have to be analyzed separately in order to evaluate both functions and their neighborhoods. According to research main elements of Newham is divided in 2 parts: 
+
+<b>1) generic elements: </b>
+A) housing; 
+B) retail; 
+
+<b>2) non-generic elements:</b> 
+A) education; 
+B) religion; 
+C) public; 
+D) green space; 
+E) brown field; 
+
+<b>+non-generic elements are being extended by comparing their location with collected data maps: </b>
+A) attractor points map; 
+B1) endoskeleton map (mainly shopping function); 
+B2) transport intensity map; 
+
+<b>According to mapping data 4 selection rules are created: </b>
+A) if the distance between same function units is larger than between other ones, then function is connected with larger neighborhood. Functions that are close to each other can distribute multiple flows of people; 
+B1) if the function’s neighborhood unit is close to retail and transport stops, then it is selected for further evaluation. These units are the most comfortable from developers points of view. 
+B2) if the function is close to highest flows of traffic then it is selected for further evaluation. 
+These units have a potential to receive more visitors than others. 
+C) finally, overcrowding map is based on extension of previously selected objects’ volumes. 
+Finally, there are two main concepts for solving uniformity, overcrowding and intense flows of Newham. Firstly, there is lack of visible volumetric changes between different parts of cities. Secondly, there is lack of functional difference and activity. By speculating on these ideas, models can be created by strict rules and evaluation of superimposed data.
+
+

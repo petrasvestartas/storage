@@ -1,0 +1,97 @@
+<b>Nexorades</b>
+
+IBOIS, EPFL, study of in-plane Nexorades, exercise for middle review of Atelier-Weinand.
+Tutor: Petras Vestartas. Students: Loison François Bernard, Pengg Matthias Johann Jacques.
+
+{slideshow}{image 8}{image 12}{image 13}{image 1}{image 2}{image 3}{image 4}{image 5}{image 6}{image 7}{image 9}{image 10}{image 11}{/slideshow}
+<b>Figure 1 A</b>. Nexorades made from two layer of planks glued together forming 4.6 cm thickness, length of each bar is ~75 cm. Dimensions 600x900 cm.
+
+<iframe src="https://player.vimeo.com/video/342655816" width="560" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><b>Figure 1 B</b> Fabrication process using 4,5 axis CNC machine makar wiht cutsom rig for cutting beams 5 sides.
+
+
+<b>Reasoning for using reciprocals.</b>
+
+{image 16}
+<b>Figure 2</b>. A - Node-Bar connection represents N-valence connectivity B - Nexorade - Bar-Bar connection, represents 2-valence connectivity.
+
+{image 18}
+<b>Figure 3</b> A simple fan - mapping eccentricity to the radius of the beam (half distance of line-line intersection). A - <i>Number of Bars</i>. More bars with the same parameters, smaller eccentricity. B -<i>Change of Curvature</i>. Higher the curvature, bigger the eccentricity. C - <i>Rotation of Bars</i>. Larger the rotation is the larger eccentricity. D - <i>Polynomial Fit </i>used for finding correct rotate angle, the radius of the bar stays the same. Input for polynomial: X – angles Y - radius.  <a href="https://files.cargocollective.com/653920/SimpleFan.zip" target="_blank"><b>Download</b></a>
+
+Nexorade bars mutually supports each other as a load bearing system. The configuration of reciprocal frames simplifies construction system because only two members are connected at each node, instead of multiple beams such as space-frames or trusses. As a result, fabrication of such nodes are more easily manufactured due to low valence connectivity (see Fig. 2).
+
+Key features pointed out by Olivier Baverel:
+1. Nexors of nexorade could have identical length, identical cross section, identical length.
+2. By varying the engagement length, different sizes of nexorades cam be built using same basic configurations.
+3. Nexorades have only one type of joint that connects only two nexors.
+4. None of the components requires complex technology, only simple tools are required for construction.
+
+
+<b>Why reciprocals are not common among structures?</b>
+
+But there are only a few historical and contemporary buildings that employ reciprocal structural system. The form-finding of nexorades requires efficient non-linear solvers, that do not provide any provide any certainty about their output. Besides platonic objects (cubes, tetrahedra, icosahedra and etc.) and planar tiling no theoretical results have been found for curved geometries. Also nexorades are not structurally efficient as free-form space-frames or grid-shells due to low node valence and structural redundancy. This structural principle allows simple assembly and connection details, but leads in counterpart to poor structural performance.
+
+
+<b>State-of-the-Art Methods</b>
+
+The pioneering scientific work of nexorades was primarily demonstrated by Baverel et. al. It was demonstrated that the eccentricities and the engagement length control the form of reciprocal structures. "Reciprocal frame" is a term generally used to describe one node or a fan, however in the the Prof. H. Nooshin proposed the term Nexor, meaning a link in latin.
+
+<i>Olivier Baverel (2000) Nexorades: A Family of Interwoven Space Structures Doctoral thesis, University of Surrey</i>
+
+<i>O. Baverel, H. Nooshin, Y. Kuroiwa, G. Parke, Nexorades, Int. J. Space Struct. 15 (2) (2000) 155–159, https://doi.org/10.1260/0266351001495053.</i>
+
+Recent developments of nexorades are based on hybrid plate-beam assembly and planar translation method to achieve higher structural efficiency.
+
+<i>Romain Mesnil, Cyril Douthe, Olivier Baverel, Tristan Gobin. Form Finding of Nexorades Using the Translations Method. Automation in Construction 95:142-154. 2018.
+DOI: 10.1016/j.autcon.2018.08.010</i>
+
+Number of studies were made in order to extend single layer reciprocal frames to two layer to achieve higher spans such 1.5 layer reciprocal space frame or nexors based on nodal rotation of space-frame.
+
+<i>Pei-Shan Chen. Innovation of 1.5-Layer Space Frames. Architectural Research. 2014</i>
+
+<i>Cyril Douthe, Olivier Baverel. Morphological and Mechanical Investigation of Double-Layer Reciprocal Structures. Nexus Network Journal 16(1):191-206. 2014.
+DOI: 10.1007/s00004-014-0185-9</i>
+
+<b>Form-finding of Nexorades</b>
+
+Nexorades could be control by a series of interconnected geometrical parameters such as rotation or translation of engagement window, bar length and curvature of target shape. Several methods are proposed for form-finding of nexorades:
+
+1. Baverel suggests genetic algorithms.
+2. Douthe and Baverel employs dynamic relaxation (i.e. Daniel Piker - Kangaroo) in a double layer system. Mesnil describes dynamic relaxation a non-linear method that can converge to a local minima, but do not systematically converge to a global minima.
+3.Senechal studied analytical solution by rotations of regular polyhedra, while Baverel studied analytically translation of regular polyhedra.
+4. The last method found is using soft constraints for eccentricities and perform iterative least-square optimization for form-finding of nexorades.
+
+<i>Olivier Baverel (2000) Nexorades: A Family of Interwoven Space Structures Doctoral thesis, University of Surrey</i>
+
+<i>C. Douthe, O. Baverel, Design of nexorades or reciprocal frame systems with the
+dynamic relaxation method, Comput. Struct. 87 (21) (2009) 1296–1307, https://
+doi.org/10.1016/j.compstruc.2009.06.011.</i>
+
+<i> C. Douthe, O. Baverel, Morphological and mechanical investigation of double-layer
+reciprocal structures, Nexus Netw. J. 16 (1) (2014) 191–206, https://doi.org/10.
+1007/s00004-014-0185-9. </i>
+
+<i> Romain Mesnil, Cyril Douthe, Olivier Baverel, Tristan Gobin, Form finding of nexorades using the translations method. Automation in construction. pages 142-154. 2018. </i>
+
+<i> B. Sénéchal, C. Douthe, O. Baverel, Analytical investigations on elementary nexorades,
+Int. J. Space Struct. 26 (4) (2011) 313–320, https://doi.org/10.1260/0266-
+3511.26.4.313. </i>
+
+<i>P. Song, C.-W. Fu, P. Goswami, J. Zheng, N.J. Mitra, D. Cohen-Or, Reciprocal frame
+structures made easy, ACM Trans. Graph. 32 (4) (2013) 94, https://doi.org/10.
+1145/2461912.2461915.</i>
+
+<b>Building applications</b>
+
+Nexorades are of used for teaching because it often relies on simple detailing. However, full-scale architectural projects using Nexorades are less common: 
+1. Kreod pavilion.
+2. Mount Rokko-Shidare Observatory
+3. The roof over archeological site in Bibracte, France.
+
+The cladding of reciprocals is another point to mention, because Nexorades are bar-bar structural systems. Before mentioned projects are either covered with membranes, uncovered, and provide thus little insulation. Covering  Nexorades with panels is another challenge that could open new possibilities.
+
+
+<b>Nexorade joints</b>
+
+Half-lap and scaffolding connectors are the most common joints found in the literature. Half-lapped joints significantly decrease the static height of the members and weaken thus the structure, while scaffolding connectors are only suited for cylindrical members, which are not commonly found for timber. Two simple alternatives are glued connections and end-grain screws. With this kind of connection, the smaller the eccentricities, the larger the contact surface between members and therefore for the higher the level-arm between screws. Minimizing eccentricities improves thus the structural behavior and eases construct ability. Despite their ease of assembly, the structural behavior of nexorade is far from optimal, because of the low valence, which implies, a bending-dominated behavior, even for funicular shapes.
+

@@ -1,0 +1,25 @@
+<b>Fold Map</b>
+<i>Competition entry "Vilnius Pavilion in Scotland" 
+Team: Petras Vestartas, Gediminas Kirdeikis
+2015
+
+Why?  For Buckminster Fuller.</i>
+
+The uniqueness of Vilnius lies in the density of its public spaces. There are only a few cities in the world which have their public spaces form an evident network and Vilnius is one of them. The network of public spaces in this city is so strong, that just by looking at it you can understand that it indeed is - Vilnius. Also it is important to mention that these spaces are increasing in number and that due to the laws regarding small events passed by the municipality they are also increasing in activity. In this light Vilnius is one of the leading cities of the world. Events such as "Street music day", "Culture night" or just a single amateur musician create an unique "face" for every park or square thus increasing the overall quality of the city. After all, it is just a 15 minute walk from "Zemaite" square with its bard music to "Tibet" garden with it's psychedelic Jews-harp music.
+
+In pursuance to spread this quality a pavilion created purely out of old town public spaces takes shape.
+
+Inside of this pavilion visitors would be enveloped by the city of Vilnius, where they could sit down and listen to the music from different parks and squares thus understanding that every space has its own character and emotion.
+
+During the design phase all parks and squares together with spaces that frame them are being pulled and mapped. Spaces which are closest to each other are joined into one network. A newly built map is transferred from 2D planar view to a 3D structure with the help of Buckminster Fullers map principles where in order to minimize the distortion a projection of earth is created not on a cylinder (usual practice), but on a icosahedron. This type of triangular subdivision ensures that all elements have the same measurements without any relation to the 3D structure that they form. By using computer based simulation tools the subdivided map is clamped in to the defined 5x5m square. Due to the stiffness of the elements the shape of the map bends into a 3D volume, which fits in to the regulations of the competition and at the same time is suitable for exhibiting. This way of designing creates a possibility to adapt to new environments and also to have transformable edges allowing the volume to be closed or opened at any given time. 
+
+{image 1}
+
+{image 2} {image 6} 
+
+<iframe title="YouTube video player" width="560" height="300" src="https://www.youtube.com/embed/C0Pdb1BLlrs" frameborder="0" allowfullscreen></iframe>
+{image 3}{image 4}{image 5}
+
+{image 9}
+
+Thank you Buckminster Fuller

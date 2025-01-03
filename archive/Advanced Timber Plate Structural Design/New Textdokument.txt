@@ -1,0 +1,6 @@
+Advanced Timber Plate Structural Design:
+An transdisciplinary approach in structural design and digital architecture.
+
+The course is based on a written book that is recorded using EPFL studio for MOOC. There are multiple lectures and practical assignments with homework. This material is open-sourced as video tutorial using my compas_wood software. Other members such as prof. dr. Aryan Rezaei Rad describes structural calculation methodology for timber plates and prof. dr. Yves Weinand explains the research methodology.
+
+{image 1}{image 3}{image 2}

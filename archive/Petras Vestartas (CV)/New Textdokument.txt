@@ -1,0 +1,37 @@
+
+<b>PhD, MA, BA (hons), architect.</b> 
+<b>Telephone:</b> +41 78 726 14 87
+<b>E-mail:</b>  petrasvestartas@gmail.com
+
+<b>Download: </b><a href="https://files.cargocollective.com/653920/CV_Petras_Vestartas_fullversion_EN_2023_01_24.pdf" target="_blank"><b>Curriculum Vitae</b></a> <b> | </b> <a href="https://mega.nz/file/g4w0WBBA#HmwX9DDYZgAB1Rkrr6D3vE3QP95CrcjsISvZtEif-KI" target="_blank"><b>Portfolio</b></a>
+
+
+My name is Petras Vestartas. I hold BA, MA degrees in architecture from <a href="https://www.vda.lt/en/" target="_blank"><b>VAA</b></a> (Lithuania). I finished PhD at <a href="https://www.epfl.ch/labs/ibois/" target="_blank"><b>Laboratory for Timber Constructions IBOIS, EPFL</b></a> (Switzerland) focused on digital timber fabrication, scanning methods and robotic tool-path planning (ABB). I am also a former researcher at <a href="https://royaldanishacademy.com/CITA" target="_blank"><b>CITA, KADK</b></a> (Denmark). Furthermore, I worked in international offices such as <a href="http://www.doarchitects.lt/" target="_blank"><b>Do-Architects</b></a> (Lithuania), <a href="https://cebraarchitecture.dk/" target="_blank"><b>CEBRA</b></a> (Denmark) and <a href="https://www.dmaa.at/" target="_blank"><b>DMAA</b></a> (Austria). I earned knowledge from highly interdisciplinary teams including architects, structural and mechanical engineers and computer scientists.
+
+I taught master and bachelor students at EPFL for six years and held academic and commercial workshops. Also, I supervised Master theses projects in architecture and guided PhD students during my postdoctoral studies. I also created a new course for architects called: Introduction to Computational Architecture (EPFL AR-327). It is a weekly Python and Grasshopper course initiated by EPFL researchers. Additionally, I was responsible for setting up CNC (Maka 5-Axis) and industrial robots set-ups (ABB 6700 with IRBT 6.7 m track motion and spindle package) for IBOIS researchers.
+
+__________________________________________________________________________________
+
+Furthermore, I developed digital methods within .NET (C#), C++ and Python languages. Most of the <a href="https://www.epfl.ch/labs/ibois/index-html/tools/" target="_blank"><b>tools</b></a> are open-sourced and documented at  <a href="https://www.learn-visual-programming.com/" target="_blank"><b>learn-visual-programming</b></a>. For more details follow the links below :
+
+► <a href="https://www.food4rhino.com/en/app/opennest" target="_blank"><b>OpenNest</b></a> (nesting methods for CNC and Laser cutting), 
+► <a href="https://ibois-epfl.github.io/compas_wood/latest/" target="_blank"><b>compas_wood</b></a> (timber joinery modelling), 
+► <a href="https://ibois-epfl.github.io/Cockroach-documentation/" target="_blank"><b>Cockroach</b></a> (PointCloud processing library), 
+► <a href="https://www.food4rhino.com/en/app/ngon" target="_blank"><b>NGon</b></a> (polygonal mesh modelling methods), 
+► <a href="https://github.com/ibois-epfl/Raccoon" target="_blank"><b>Raccoon</b></a> (5-axis CNC Fabrication methods), 
+► <a href="https://www.food4rhino.com/en/app/scatter" target="_blank"><b>Scatter</b></a> (for large 3D rendering scenes),
+► <a href="https://www.food4rhino.com/en/app/fox" target="_blank"><b>Fox</b></a> (Aggregation Methods).
+
+__________________________________________________________________________________
+
+<b>BANK ACCOUNT:</b>
+<b>IBAN:</b> LT417300010124660129
+<b>BANK:</b> AB Swedbank
+<b>SWIFT:</b> HABALT22
+<b>ADDRESS:</b>  Sventorkalnio 8
+<b>CITY:</b> Krepstai
+<b>POSTAL CODE: </b>LT-88269
+<b>COUNTRY:</b> Lithuania
+
+
+

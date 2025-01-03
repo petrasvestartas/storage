@@ -1,0 +1,26 @@
+<b>Aggregations and Graph-Based Modelling</b>
+
+Workshop at Vilnius Academy of Arts (VAA).
+Exhibition is held at Architects Association of Lithuania 2017 - March 10-24.
+
+
+Students:
+Rimantė Butėnaitė, Kazimieras Vilkas, Jūratė Kindurytė,Algirdas Ramonas, Aleksandras Krasauskas, Audronė Kavaliauskytė, Mindaugas Jancius, Tomas Rimkus, Ksenija Kirilina, Vaida Ašmonienė, Solveiga Buoželytė, Mantas Indriliūnas.
+
+<iframe src="https://player.vimeo.com/video/212804614" width="560" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<b>Exhibition</b>
+
+{slideshow}
+{image 24}{image 25}{image 26}{image 28}{slideshow{image 30}{image 32}{image 33}{image 34}{image 35}{image 36}{image 37}{image 39}{image 40}{image 41}{image 42}{image 45}{image 46}{image 47}}{image 50}{image 49}{image 54}{image 55}{image 56}{image 57}{image 58}{image 59}{image 60}{image 61}{image 62}{image 63}{image 64}{image 65}{image 66}{/slideshow}
+
+<b>
+Environment Model Where Equal Elements Are Populated In</b>
+
+Model1
+{image 1}{image 2}{image 3}{image 4}{image 5}{image 6}{image 7}{image 8}{image 9}{image 10}{image 11}{image 17}{image 18}{image 19}{image 20}{image 51}{image 52}{image 53}{image 54}
+
+Model 2
+{image 38}{image 15}{image 23}
+

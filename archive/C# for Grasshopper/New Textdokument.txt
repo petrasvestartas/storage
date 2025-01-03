@@ -1,0 +1,259 @@
+<b>Workshop C# for Grasshopper</b>
+advanced scripting course
+Warsaw, Poland, 2016 Dec 2-4.
+
+Tutors:
+Petras Vestartas, Krzysztof Nazar
+
+Organiser:
+Adrian Krezlik 
+
+Workshop documentation and definitions:
+Day 1 C# Language
+Day 2 C# RhinoCommon
+Day 3 C# Visual Studio - First Component
+
+Grasshopper C# examples:
+<a href="http://files.cargocollective.com/653920/Definitions.7z" target="_blank"><b>Download</b></a>
+
+
+<b>C# Language Slideshow</b>
+{slideshow}
+ {image 3} 
+{image 4} 
+{image 5} 
+{image 6} 
+{image 7} 
+{image 8} 
+{image 9} 
+{image 10} 
+{image 11} 
+{image 12} 
+{image 13} 
+{image 14} 
+{image 15} 
+{image 16} 
+{image 17} 
+{image 18} 
+{image 19} 
+{image 20} 
+{image 21} 
+{image 22} 
+{image 23} 
+{image 24} 
+{image 25} 
+{image 26} 
+{image 27} 
+{image 28} 
+{/slideshow}
+
+<b>RhinoCommon Slideshow</b>
+{slideshow}
+{image 29} 
+{image 30} 
+{image 31} 
+{image 32} 
+{image 33} 
+{image 34} 
+{image 35} 
+{image 36} 
+{image 37} 
+{image 38} 
+{image 39} 
+{image 40} 
+{image 41} 
+{image 42} 
+{image 43} 
+{image 44} 
+{image 45} 
+{image 46} 
+{image 47} 
+{image 48} 
+{image 49} 
+{image 50} 
+{image 51} 
+{image 52} 
+{image 53} 
+{image 54} 
+{/slideshow}
+
+<b>Grasshopper Component in Visual Studio Slideshow</b>
+
+{slideshow}
+{image 55} 
+{image 56} 
+{image 57} 
+{image 58} 
+{image 59} 
+{image 60} 
+{image 61} 
+{image 62} 
+{/slideshow}
+
+
+{slideshow}
+{image 63} 
+{image 64} 
+{image 65} 
+{image 66} 
+{image 67} 
+{image 68} 
+{image 69} 
+{image 70} 
+{image 71} 
+{image 72} 
+
+{/slideshow}
+
+
+{image 2}
+
+
+<b><a href="http://visualstudioshortcuts.com/2017/" target="_blank">C# Shortcuts:</a></b>
+
+<b>Snippets </b>
+<b>Ctrl + K + X</b> (Grasshopper C# editor; Visual Studio C# and more) or<b> Ctrl + K + S</b> (Visual Studio C# )
+
+<b>Collapse all methods</b>
+Fold - <b>Ctrl + M + O</b> Unfold <b>Ctrl + M + L</b>
+
+<b>Comment all lines</b>
+Comment <b>Ctrl + K + C</b> Uncomment <b>Ctrl + K + U</b>
+
+<b>Add text to multiple lines</b>
+<b>Shift + Alt</b>  and then move with arrow down and type 
+
+<b>Rename selected word + all the same names</b>
+<b>Ctrl + R</b>  
+
+<b>Build Solution</b>
+<b>Ctrl + Shift + B</b>
+
+<b>Run console application in debug mode</b>
+<b>Ctrl + F5</b> debugging <b>F5</b>
+
+<b>Add namespace</b>
+<b>Ctrl + . </b>  and Enter
+
+
+<b>Books:</b>
+
+<a href="https://files.cargocollective.com/653920/CPlusPlusNotesForProfessionals.pdf" target="_blank">C++</a>
+<a href="https://files.cargocollective.com/653920/DotNETFrameworkNotesForProfessionals.pdf" target="_blank">.NET</a>
+<a href="https://files.cargocollective.com/653920/AlgorithmsNotesForProfessionals.pdf" target="_blank">Algorithms Datastructures</a>
+<a href="https://files.cargocollective.com/653920/CSharpNotesForProfessionals.pdf" target="_blank">C#</a>
+<a href="https://files.cargocollective.com/653920/PythonNotesForProfessionals.pdf" target="_blank">Python</a>
+
+
+
+
+
+____________________________________________
+<b>C++ Rhino </b>
+
+
+Before creating C++ Plugin, employ C++ Rhino OpenNurbs for Console App, it will be easier to debug instead of launching Rhino each time. For example, prepare conversion between types and print to console using iostream. Follow this installation: https://discourse.mcneel.com/t/rhino-c-and-console-app/127959/13
+
+
+
+Windows:
+Visual Studio 2019 with C++ all package installation on the right side
+
+Install Rhino <a href="https://developer.rhino3d.com/guides/cpp/installing-tools-windows/" target="_blank">SDK </a>for the plugin development.
+
+
+Mac:
+XCode
+
+
+Additional Notes of C++ Rhino:
+<i>RhinoApp().Print(%d, value)</i> works as printf(), %d letter must be replaced depending on value <a href="<a href="https://www.cplusplus.com/reference/cstdio/printf/" target=""printf()"">Link</a> </a>
+
+____________________________________________
+<b>C++ Rhino C# PInvoke </b>
+
+Windows:
+
+Mac:
+
+1. Learn how to use keyboard of Mac, Go to Folder.
+
+2. Install XCode (from apple app store)
+
+3. Install MacPorts (from internet)
+
+4. Install Boost using Terminal "sudo port install boost"
+
+5. For linking you will need to know where Mac installed those libraries
+
+6. Create <a href="https://apple.stackexchange.com/questions/231511/creating-a-project-inside-xcode" target="_blank">Dynamic</a> Plain C++ library
+The project shows how to reference Dylib project to command line project,
+
+7. Build Step1: it in <a href="https://medium.com/geekculture/what-are-debug-and-release-modes-in-xcode-how-to-check-app-is-running-in-debug-mode-8dadad6a3428" target="_blank">RELEASE</a> mode and run it, debug mode is super slow: 
+{image 77}
+
+8. Build Step2: Select scheme:
+Release build: "Product" Menu => "Build For" => "Profiling" (shift-command-I) / Better build without any scheme.
+
+9. C++ Decorate all methods using PInvoke
+
+<i>.hpp:
+#define PINVOKE extern "C"
+PINVOKE int test (int n);
+
+.cpp:
+PINVOKE int test (int n){
+return n*n; }</i>
+
+10. C# Decorate methods using PInvoke
+<i>[DllImport("libsimpleDYLIB.dylib")]
+private static extern int test (int n);</i>
+
+11. Side notes:  was not very useful:
+https://developer.rhino3d.com/guides/rhinocommon/wrapping-native-libraries/
+
+Also .dylib are not secure on mac so distribute rhino mac plugins via Rhino Package Manager or <a href="https://www.youtube.com/watch?v=u-_0EEZjQiQ" target="_blank">do this</a>.
+
+____________________________________________
+<b>C++ Boost </b>
+<a href="https://www.youtube.com/watch?v=-YEaxAFIMhc" target="_blank">Tutorial</a>
+(Just install and set environmental variables, do not build)
+
+Install latest version from SourceForge
+Set environmental Variables: 
+BOOST_INCLUDEDIR
+BOOST_ROOT
+C:\IBOIS57\_Code\Software\CPP\Boost
+
+BOOST_LIBRARYDIR
+C:\IBOIS57\_Code\Software\CPP\Boost\lib64-msvc-14.2
+____________________________________________
+<b>C++ PMP </b>
+
+
+
+//Download dllexport branch
+C:\libs\PMP
+git clone --recursive https://github.com/pmp-library/pmp-library.git
+cd pmp-library && mkdir build && cd build && cmake -DWITH_EXAMPLES=ON .. && cmake --build .
+
+//Development branch
+git clone --single-branch --branch dllexport --recursive https://github.com/pmp-library/pmp-library.git
+
+//PMPRhino7CMP
+C:\libs\PInvokeCPPCSHARP\PInvoke
+
+//Conflict with Min and Max
+MatVec.h
+#undef max
+#undef min
+
+SurfaceCurvature.h
+#undef max
+#undef min
+
+//Define M_PI
+#ifndef M_PI
+#define M_PI 3.14159265358979323846
+#endif
+

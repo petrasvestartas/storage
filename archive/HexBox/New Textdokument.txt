@@ -1,0 +1,69 @@
+<b>HexBox</b>
+
+Project Name: "Centre d’activités Gare Grand Chalet".
+Location: Rossinière, Switzerland
+Client: Commune de Rossinière
+Architect: Yves Weinand Architectes sàrl, Lausanne
+Timber Engineering: Bureau d’Etudes Weinand, Liège (BE)
+Technology Transfer: Laboratory for Timber Construction, IBOIS, EPFL, Prof. Yves Weinand, Petras Vestartas, Julien Gamerro
+
+{image 32}
+{image 47}
+<b>Figure 1 </b>(A) The prototype from planks, (B) Box components (C-D-E) Connections – dowels
+
+The inspiration is taken from timber dome structures, where solid timber walls were built from planks, connected side by side. Furthermore, the research is based on a collaboration with a local timber company located in a mountain area. In this context, timber has a low economic value because the price no longer covers the harvesting cost. Therefore, there is a need to explore the available timber stock (round wood, beam elements and planks) to transform it locally. The geometry modelling workflow is split into three parts: surface discretization, joint modelling and fabrication. Firstly, projection-based solver is applied to the planarization of volumetric blocks. Secondly, the joint geometry is computed according to the insertion vector and a tool-path is generated using G-Code to guide the 4.5 Axis CNC machining. As proof of concept, two prototypes were built, one from planks and another from round-woods. The choice of material influenced the segmentation of the timber shell. Finger and Tenon-mortise joinery techniques have been chosen for their simple modelization and fast cutting time. Their placement follows as closely as possible fiber orientation of wood. Even if both study cases share the same discretization method, the first prototype from timber plates takes advantage of lightweight structures, while the second explores a heavy solid round-wood structural system.
+
+{image 48}
+<b>Figure 2</b> The research context:  A1 – Mountain forestry, A2 - Tree species – Épicéa, A3 - CAD interface, A4 - CNC cutting, A5 - joinery. Modelling workflow: B1 - surface, B2 - discretization and planarization, B3 – CNC milling and cutting, B4.1/2 Box component, Solid element component B5.1/2 Prototypes.
+
+<b>Research Interest - Wood from Mountain Timber Forestry</b>
+The research project is related to a larger mountain forestry study (tree species – Épicéa), CNC fabrication tool and wood-wood connection development within a CAD interface (see Fig. 2 A1-A5). Economically, local mountain forestry no longer covers operating costs due to complicated harvesting process: a crane and a cable system is needed to carry tree trunks from high to low altitude of mountains and then transported them to large saw-mills far from a cutting area. To reduce this expensive cycle, there is a preference to investigate novel building systems made from harvested trees and apply them locally. 
+
+<b>Modelling Framework</b>
+The CAD modelling workflow (see Fig. 2 B1-B5) is based on a surface subdivision, discretization, planarization, joinery geometrical specification, CNC fabrication and assembly sequence. Two building materials are assessed from the local saw mill: planks and round-wood. The design target is a surface that is discretized according to building material scale and assembled manually using wood-wood connections. It considers geometrical and material constraints: linearity of wood, grain direction, drying and fabrication processes.  The tool is based on a mesh modelling framework in order to have a low-poly representation of panels and timber blocks. In addition to this, the model itself has two representations: a 3d model and a fabrication tool-path.
+
+<b>Surface Discretization</b>
+{image 49}
+<b>Figure 3 </b>Planarization method consists of two main steps: (A) planarization of extruded mesh edges (support structure) (B) intersection of lines to average planes of line ends (C) planar polyhedron
+
+{image 43}
+<b>Figure 4 </b>Planarization method shown in iterations: (A) planarization of extruded mesh edges 0-600 iteration (B) intersection of lines to average planes  (C) the full sequence of planarization.
+
+The planarization method is based on support structures of polygonal cell packing [5]. The aim is to compute polyhedrons, which are solids with only planar face boundaries from arbitrary surface subdivision [6]. Similar research [7] implemented plane projection methods on quad meshes with small gaps at each mesh vertex. Other possibility is to use Voronoi diagrams for planarization [5]. Another technique is to apply a circle packing of triangle meshes whose incircles form a packing [8]. A third method uses circular and conical meshes [9].
+Our chosen polygonal pattern does not have such qualities because its shape is linked to the linearity of planks and round-wood. The aim is therefore, to keep the original shape without too much distortion. The proposed planarization method is based on an iterative solver which gradually projects extruded quad faces to an average plane (see Fig. 3). The user has to specify a tolerance of a planar polygon and give a collection of mesh vertex points. While iterating through polygonal mesh faces, the current mesh face vertices are projected to an average plane and the non-planar polygon deviation is recorded. Afterwards the average sum of projected mesh face vertices are assigned to current mesh face vertices. This method is re-iterated multiple times until the deviation is below the user specified tolerance value.
+The full modelling framework is subdivided into the following steps (see Fig. 4 C): the target surface is discretized into a polygonal mesh. The mesh edges are extruded and planarized (see Fig. 4 A). The top and bottom contours of each cell are not planar and are therefore, projected to the average plane of their vertices (see Fig. 4 B). Projected points form a planar polygon and, together with planarized quads, result in a planar polyhedron.
+
+<b>Prototypes</b>
+A series of prototypes was made to validate the planarization algorithm. Two models are detailed in the following subsections (3.1 and 3.2). Planks and round-woods were specifically chosen as part of a collaboration between a local forestry company and the research institute to use raw timber materials. Consequently, it was important to understand the relationship between material, connection geometry, assembly sequence and fabrication.
+
+<b>Prototype in Planks</b>
+{image 40}
+<b>Figure 5</b> Computing insertion direction: (A) the insertion range based on neighbor faces (B) the insertion range based on element faces and fabrication constrains (C) intersection between set A and B - A ∩ B, (D) – generated geometry.
+
+Several existing publications describe the automation of assembly path that influences the joinery geometry (type of joint and an insertion direction) [10, 11, 12]. It is also possible to look at this problem from a user perspective when the assembly path is already known. Proposed methodology is based on the existing state-of-the-art method [7] and extended to polygonal meshes, which are not restricted to triangle or quad discretization. Moreover, graph-search methods such as Breadth-First-Search could be applied to compute an assembly order (see Fig. 7). Edges of this graph whose nodes are polygon centers give insertion direction. This vector has to be compared against connected edge direction to know if the insertion vector is not parallel. BFS is a fast approach when a user does not have a sequential order how to assemble elements one after another. Other methods such as a grid-like assembly could be applied when the initial topology is regular. Lastly, several large patches could be assembled together too. It often requires special details, as multiple edges may not have uniform insertion vector applicable to all elements within a group.  
+
+A series of box-to-plates transformations are made after the planarization. First, we get the insertion range based on neighbor faces (see Fig. 5 A) and second, the insertion angle is computer based on element faces and fabrication constrains (a maximum CNC cutting angle 45°; see Fig. 5 B). Third, we compute the intersection between the two sets of angles A ∩ B (see Fig. 5 C). Then, turn each polygonal face into a 3D geometry, with plate-to-plate and box-to-box connections. The insertion direction is used to compute tenon-mortise joints at the top and bottom edges. Edge-wise dovetail joints are chosen for each side.  To prepare the cutting files, polylines are oriented from the 3D space to the 2D plane of the wooden board. The G-Code is exported for 4,5 Axis CNC fabrication and when fabrication is finished, individual plates are assembled into boxes. Finally, a set of boxes are connected using dowels (see Fig. 6).
+
+{image 44}
+<b>Figure 6 </b>An assembly sequence: (A1) round-wood, (A2) planks, (A3) cutting outlines, (A4-A5) assembly of a box, (B1) connectng boxes by dowels, (B2) boxes assembly (B3) final prototype.
+
+{image 38}
+<b>Figure 7 </b> Graph search algorithm – Breadth-First-Search used for an assembly path and joinery orientation. BFS connectivity graph from center points of hexagons (A), graph edge is used as a vector for each polygon edge joint orientation (B), physical test  from cardboard (C). 
+
+{image 39}
+<b>Figure 8 </b> Planarization method performed on a set of free form shapes (A) low resolution hexagonal subdivision (B-C) high-curvature mesh dual (D) dome (E) low gaussian curvature.
+
+
+<b>Development</b>
+{slideshow}
+{image 21}{image 22}{image 23}{image 25}{image 26}{image 27}{image 28}{image 29}{image 30}{image 19}{image 20}{image 18}{image 13}{image 14}{image 10}
+{image 15}{image 16}{image 17}{image 12}{image 11}
+{image 1}{image 2}{image 3}{image 4} {image 5}
+{image 6}{image 7}{image 8}{image 9}
+
+{/slideshow}
+
+{image 56}{image 57}{image 58}{image 59}{image 60}{image 61}{image 62}{image 63}{image 64}{image 65}{image 66}{image 67}{image 68}{image 69}
+
+{image 70}
+{image 71}
